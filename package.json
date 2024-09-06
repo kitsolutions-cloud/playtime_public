@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "playtime_public",
   "version": "4.4.0",
   "scripts": {
     "dev": "astro dev",

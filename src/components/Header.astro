@@ -57,7 +57,7 @@ const { activeNav } = Astro.props;
         <ul id="menu-items" class="display-none sm:flex">
           <li>
             <a href="/posts/" class={activeNav === "posts" ? "active" : ""}>
-              Posts
+              Publicações
             </a>
           </li>
           <li>
@@ -65,11 +65,13 @@ const { activeNav } = Astro.props;
               Tags
             </a>
           </li>
+          <!--
           <li>
             <a href="/about/" class={activeNav === "about" ? "active" : ""}>
-              About
+              Sobre
             </a>
           </li>
+          -->
           <li>
             <LinkButton
               href="/search/"

@@ -1,4 +1,4 @@
-import type { FontStyle, FontWeight } from "satori";
+import type {FontStyle, FontWeight} from "satori";
 
 export type FontOptions = {
   name: string;
@@ -53,6 +53,18 @@ async function loadGoogleFonts(
     {
       name: "IBM Plex Mono",
       font: "IBM+Plex+Mono:wght@700",
+      weight: 700,
+      style: "bold",
+    },
+    {
+      name: "Poppins",
+      font: "Poppins",
+      weight: 400,
+      style: "normal",
+    },
+    {
+      name: "Poppins",
+      font: "Poppins:wght@700",
       weight: 700,
       style: "bold",
     },
