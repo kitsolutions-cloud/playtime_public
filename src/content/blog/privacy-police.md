@@ -9,8 +9,7 @@ draft: false
 tags:
   - publico
   - privacidade
-description:
-  Definições de políticas de privacidade para o blog do aplicativo Playtime.
+description: Definições de políticas de privacidade para o blog do aplicativo Playtime.
 ---
 
 ## Introdução
@@ -66,5 +65,4 @@ disponível no **PlayTime**. Notificaremos sobre mudanças significativas por me
 
 ## Contato
 
-Se você tiver dúvidas sobre nossa Política de Privacidade, entre em contato pelo e-mail *
-*contato.playtime@kitsolutions.cloud**.
+Se você tiver dúvidas sobre nossa Política de Privacidade, entre em contato pelo e-mail \* \*contato.playtime@kitsolutions.cloud**.

@@ -9,8 +9,7 @@ draft: false
 tags:
   - publico
   - termos
-description:
-  Termos de serviço do aplicativo Playtime.
+description: Termos de serviço do aplicativo Playtime.
 ---
 
 ## Aceitação dos Termos

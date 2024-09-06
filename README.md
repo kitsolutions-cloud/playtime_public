@@ -1,4 +1,3 @@
-
 ## 📖 Documentation
 
 Documentation can be read in two formats\_ _markdown_ & _blog post_.

@@ -1,4 +1,4 @@
-import type {FontStyle, FontWeight} from "satori";
+import type { FontStyle, FontWeight } from "satori";
 
 export type FontOptions = {
   name: string;
